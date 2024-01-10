@@ -8,6 +8,7 @@
   The APP is available on the TestFlight and Apple App Store: <br/>
 
 <p align="center">
+
   <a href="https://testflight.apple.com/join/hb5UK0m1" target="_blank">
     <img alt="Get it on TestFlight"
          height="80"
@@ -22,6 +23,7 @@
   </a>
 </p>
 
+
 ## App Preview
 ![Group 8732](https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/c11224c9-4444-4eb2-864a-705e2610f17e)
 
@@ -34,7 +36,7 @@ The App incorporates a variety of interesting tools and frameworks, and I would 
 ## Demo Videos
 | Onboarding/Welcome | Login Authentication | Discover Page |
 |:---------------------:|:-----------------------:|:----------------:|
-| <video src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/20e75a1a-5a2b-4583-b5a5-e84bf813b2b9" width="300" controls></video> | <video src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/44f28bdb-41da-4e9e-ad73-165ee29f30e7" width="300" controls></video> | <video src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/de0ed8e9-31a2-4229-b745-9ac218b454dc" width="300" controls></video> |
+| <video src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/958b308b-8714-4664-ad37-8f117d52106f" width="300" controls></video> | <video src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/44f28bdb-41da-4e9e-ad73-165ee29f30e7" width="300" controls></video> | <video src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/de0ed8e9-31a2-4229-b745-9ac218b454dc" width="300" controls></video> |
 
 ### 🎉 Onboarding/Welcome
 - I want to give users a warm and informative welcome to Marlo
