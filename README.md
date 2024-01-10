@@ -1,17 +1,14 @@
 # 📱 iOS App Portfolio: Cecilia Chen
 
 ## Welcome to my Portfolio Showcasing *Marlo*!
-
 <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/c2c03314-ce7c-4b99-9454-18a1731f09d8" align="left" width="200" hspace="10" vspace="10">
 
 **Marlo** is a 📍 **location-based social media iOS App** that I developed at work from scratch. <br/>
-
   This innovative app connects users to events within specific areas and times, offering a unique platform for social engagement and event discovery. <br/>
-  
-  The APP is available on the TestFlight and Apple App Store: <br>
+  The APP is available on the TestFlight and Apple App Store: <br/>
 
 <p align="center">
-  <a href="https://testflight.apple.com/join/YourTestFlightLink">
+  <a href="https://testflight.apple.com/join/hb5UK0m1">
     <img alt="Get it on TestFlight"
          height="80"
          src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/779a6b3e-ff8e-4a17-8420-4be6aa921682"
@@ -25,39 +22,61 @@
   </a>
 </p>
 
-
+## App Preview
+![Group 8732](https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/c11224c9-4444-4eb2-864a-705e2610f17e)
 
 ## About
+For those unable to download the app, I've used this space to showcase the main features and user interfaces I've developed. <br/><br/>
+Extensively utilizing SwiftUI and Combine, I've crafted aesthetically pleasing user interfaces adhering to functional programming principles. Where iOS functionality constraints arise, I've employed UIKit to address these challenges effectively. <br/><br/>
+I have also included a file with my code as a reference to demonstrate my coding habits. <br/><br/>
+The App incorporates a variety of interesting tools and frameworks, and I would be delighted to discuss these with anyone interested! <br/><br/>
 
-This repository provides my insights into the **development process, code quality, and innovative features** of *Marlo*, reflecting my dedication to creating impactful and user-friendly social media applications.
+## Demo Videos
+| Onboarding/Welcome | Login Authentication | Discover Page |
+|:---------------------:|:-----------------------:|:----------------:|
+| <video src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/20e75a1a-5a2b-4583-b5a5-e84bf813b2b9" width="300" controls></video> | <video src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/44f28bdb-41da-4e9e-ad73-165ee29f30e7" width="300" controls></video> | <video src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/de0ed8e9-31a2-4229-b745-9ac218b454dc" width="300" controls></video> |
 
+### 🎉 Onboarding/Welcome
+- I want to give users a warm and informative welcome to Marlo
 
+### 🔒 Login Authentication
+- I implemented a seamless and secure login authentication system.
 
+### 🌐 Discover Page 
+- I want the Discover page to be the go-to place for users to find and engage with local events and peers. <br/><br/>
 
-## Screenshots
-
-
-
-## Features & Demos
-
-A Showcase of Challenging and Visually Appealing Features I Brought to Life in Marlo:
-
-### 🎉 Onboarding/Welcome Feature
-- **Engaging Introduction**: Gave users a warm and informative welcome to Marlo.
-
-### 🔒 Login Authentication System
-- **Robust Security**: Implemented a seamless and secure login authentication system.
-
-### 🌐 Discover Page Functionality
-- **Community Hub**: Designed the Discover page to be the go-to place for users to find and engage with local events and peers.
+| Post Detail | Fancy Rich Text Editor | Others |
+|:---------------------:|:-----------------------:|:----------------:|
+| <video src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/1271bbe7-8576-472f-bc1a-a3d00385c4e9" width="300" controls></video> | <video src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/ee700eb4-2c06-4245-992a-7628329454f8" width="300" controls></video> | <video src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/6a7dcc7a-7ca1-4b62-b811-abef5fa8a1c5" width="300" controls></video> |
 
 ### 🔎 Post Detail Interaction
-- **Immersive Content**: Crafted the Post Detail view to offer a deeper insight into events with an immersive experience.
+- Here, users can view the event's attendees, attached images, and details. Furthermore, users can interact with the post by commenting, sharing the post within nearby areas, adding the event to their calendars, sharing the post link with other applications, and requesting to attend the event.
 
-### ✏️ Fancy Rich Text Editor
-- **Creative Expression**: Developed a feature-rich text editor enabling users to create visually appealing and interactive posts with ease.
+### ✏️ Fancy Text Editor
+- Here, users can create their own posts using a rich text editor I developed, which enables the addition of clickable URLs, time ranges, and locations for enhanced interactivity. Additionally, users have the option to add verification questions for those wishing to attend. Lastly, the feature to share posts is also available.
 
 ### 📢 Others
-- **Creative Expression**: Notifications and ChatRooms.
+- In addition to the main features, the app also offers Chatrooms, sectioned Notifications, Profile pages, and much more for you to explore! <br/><br/>
 
+## Note
+I am actively engaged in debugging to fix bugs and continuously adding new features to the app. 
 
+Email or Message me if you found a new bug in the App. 😄😄😄
+
+## About Me
+I have developed industry scale Location-Based Social Media iOS application from 0 to 1.
+
+5+ years of coding experience: 4 years Computer Science undergrad + 1 year Information Science master + 1 year working experience as iOS developer.
+
+I specialize in using SwiftUI and Combine, along with functional programming principles, to craft aesthetically pleasing user interfaces.
+
+Extensive experience in collaborating with diverse and cross-functional teams, including UI/UX designers, product managers, and fellow developers from various backgrounds.
+
+Proficient with Swift, design patterns, object-oriented design, and data structures and algorithms; Xcode, Postman, Figma, Docker, Slack; UIKit, Auto Layout, SwiftUI; Networking, REST APIs; MapKit, EventKit, Firebase; Multithreading, concurrency, and GCD; Memory management and ARC; Git and CI/CD; Unit testing, debugging, and more.
+
+I've learned so much from my coworkers, who are experienced iOS developers with backgrounds in big tech. Together, we've tackled complex design patterns and algorithms. I'm looking forward to collaborating with my next team to deliver exceptional apps!
+
+Help me finding a job, Thanks!!! Very appreciate!!!
+
+## 📮 Contact Me 
+Email: cecilia.g.chen@outlook.com
