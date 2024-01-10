@@ -8,13 +8,13 @@
   The APP is available on the TestFlight and Apple App Store: <br/>
 
 <p align="center">
-  <a href="https://testflight.apple.com/join/hb5UK0m1">
+  <a href="https://testflight.apple.com/join/hb5UK0m1" target="_blank">
     <img alt="Get it on TestFlight"
          height="80"
          src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/779a6b3e-ff8e-4a17-8420-4be6aa921682"
          style="margin-right: 10px;" />
   </a>
-  <a href="https://apps.apple.com/app/your-app-store-link">
+  <a href="https://apps.apple.com/app/your-app-store-link" target="_blank">
     <img alt="Get it on Apple App Store"
          height="70"
          src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/3a49daa7-b361-4429-bd0e-7ee0913c653c"
