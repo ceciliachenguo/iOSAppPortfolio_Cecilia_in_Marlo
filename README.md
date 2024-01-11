@@ -3,7 +3,7 @@
 ## Welcome to my Portfolio Showcasing *Marlo*!
 <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/c2c03314-ce7c-4b99-9454-18a1731f09d8" align="left" width="200" hspace="10" vspace="10">
 
-**Marlo** is a 📍 **location-based social media iOS App** that I developed at work from scratch. <br/>
+**Marlo** is a 📍 **location-based social media iOS App** that I developed at work from 0 to 1. <br/>
   This innovative app connects users to events within specific areas and times, offering a unique platform for social engagement and event discovery. <br/>
   The APP is available on the TestFlight and Apple App Store: <br/>
 
@@ -64,6 +64,16 @@ The App incorporates a variety of interesting tools and frameworks, and I would 
 I am actively engaged in debugging to fix bugs and continuously adding new features to the app. 
 
 Email or Message me if you found a new bug in the App. 😄😄😄
+
+## Other Project
+ ✨ [See my Golang Back-End Projects](https://github.com/ceciliachenguo/simplebank/blob/main/README.md) <br/>
+ ✨ [See my Task Management mini iOS App with CoreData](https://github.com/ceciliachenguo/TaskManagerCoreData) <br/>
+ ✨ [See my Add, Delete, & Draggable Capsule Tags iOS Project](https://github.com/ceciliachenguo/CapsuleTags) <br/>
+ ✨ [See my iOS Boomerang Cards 3D Animation Project](https://github.com/ceciliachenguo/BoomerangCards) <br/>
+ ✨ [See my iOS Realtime Messaging App using Stream SKD](https://github.com/ceciliachenguo/iMessageClone) <br/>
+ ✨ [See my iOS Book/Reading App Page Flipping 3D Animation Project](https://github.com/ceciliachenguo/BookPageFlipAnimation) <br/>
+
+There is more to explore in my public repositories, and there are many interesting projects that I didn't set to public such as OpenAI API Chatbots and etc.
 
 ## About Me
 I have developed industry scale Location-Based Social Media iOS application from 0 to 1.
