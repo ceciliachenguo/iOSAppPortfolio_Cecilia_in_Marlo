@@ -30,8 +30,8 @@
 ## About
 For those unable to download the app, I've used this space to showcase the main features and user interfaces I've developed. <br/><br/>
 Extensively utilizing SwiftUI and Combine, I've crafted aesthetically pleasing user interfaces adhering to functional programming principles. Where iOS functionality constraints arise, I've employed UIKit to address these challenges effectively. <br/><br/>
-I have also included a file with my code as a reference to demonstrate my coding habits. <br/><br/>
-The App incorporates a variety of interesting tools and frameworks, and I would be delighted to discuss these with anyone interested! <br/><br/>
+I can't show the code due to a non-disclosure agreement, as I want to remain professional and respect my team members' efforts. While I understand that my  side projects hosted on other repositories might have a very different level of complexity, decision-making, and problem-solving level compared to a large project like this, I would be happy to answer more general questions about the overall architecture of the project I'm working on during interviews. <br/><br/>
+The App incorporates a variety of interesting tools and frameworks, and I would be delighted to discuss the frameworks that I'm proficient in with you! <br/><br/>
 
 ## Demo Videos
 | Onboarding/Welcome | Login Authentication | Discover Page |
