@@ -88,7 +88,7 @@ Proficient with Swift, design patterns, object-oriented design, and data structu
 
 I've learned so much from my coworkers, who are experienced iOS developers with backgrounds in big tech. Together, we've tackled complex design patterns and algorithms. I'm looking forward to collaborating with my next team to deliver exceptional apps!
 
-Help me finding a job, Thanks!!! Very appreciate!!!
+Thanks!!! Very appreciate!!!
 
 ## 📮 Contact Me 
 Email: cecilia.g.chen@outlook.com
