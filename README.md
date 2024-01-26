@@ -66,7 +66,7 @@ I am actively engaged in debugging to fix bugs and continuously adding new featu
 Email or Message me if you found a new bug in the App. 😄😄😄
 
 ## Other Project
- ✨ [See my Golang Back-End Projects](https://github.com/ceciliachenguo/simplebank/blob/main/README.md) <br/>
+ ✨ [See my Golang Back-End Projects](https://github.com/ceciliachenguo/simplebank/) <br/>
  ✨ [See my Task Management mini iOS App with CoreData](https://github.com/ceciliachenguo/TaskManagerCoreData) <br/>
  ✨ [See my Add, Delete, & Draggable Capsule Tags iOS Project](https://github.com/ceciliachenguo/CapsuleTags) <br/>
  ✨ [See my iOS Boomerang Cards 3D Animation Project](https://github.com/ceciliachenguo/BoomerangCards) <br/>
