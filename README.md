@@ -3,7 +3,7 @@
 ## Welcome to my Portfolio Showcasing *Marlo*!
 <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/c2c03314-ce7c-4b99-9454-18a1731f09d8" align="left" width="200" hspace="10" vspace="10">
 
-**Marlo** is a 📍 **location-based social media iOS App** that I developed at work from 0 to 1. <br/>
+**Marlo** is a 📍 **location-based social media iOS App** that I developed from 0 to 1. <br/>
   This innovative app connects users to events within specific areas and times, offering a unique platform for social engagement and event discovery. <br/>
   The APP is available on the TestFlight and Apple App Store: <br/>
 
@@ -30,7 +30,7 @@
 ## About
 For those unable to download the app, I've used this space to showcase the main features and user interfaces I've developed. <br/><br/>
 Extensively utilizing SwiftUI and Combine, I've crafted aesthetically pleasing user interfaces adhering to functional programming principles. Where iOS functionality constraints arise, I've employed UIKit to address these challenges effectively. <br/><br/>
-I can't show the code due to a non-disclosure agreement, as I want to remain professional and respect my team members' efforts. While I understand that my  side projects hosted on other repositories might have a very different level of complexity, decision-making, and problem-solving level compared to a large project like this, I would be happy to answer more general questions about the overall architecture of the project I'm working on during interviews. <br/><br/>
+I would be happy to answer more general questions about the overall architecture of the project I'm working on during interviews. <br/><br/>
 The App incorporates a variety of interesting tools and frameworks, and I would be delighted to discuss the frameworks that I'm proficient in with you! <br/><br/>
 
 ## Demo Videos
