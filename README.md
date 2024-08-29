@@ -3,6 +3,9 @@
 ## Welcome to my Portfolio Showcasing *Marlo*!
 <img src="https://github.com/ceciliachenguo/iOSAppPortfolio_Cecilia_in_Marlo/assets/121702916/c2c03314-ce7c-4b99-9454-18a1731f09d8" align="left" width="200" hspace="10" vspace="10">
 
+  ### 📲 Check out Marlo's Marketing Website!
+You can learn more about the app by visiting the [**Marlo App Marketing Website**](https://www.himarlo.com/).
+
 **Marlo** is a 📍 **location-based social media iOS App** that I developed from 0 to 1. <br/>
   This innovative app connects users to events within specific areas and times, offering a unique platform for social engagement and event discovery. <br/>
   The APP is available on the TestFlight and Apple App Store: <br/>
