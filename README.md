@@ -33,8 +33,6 @@ You can learn more about the app by visiting the [**Marlo App Marketing Website*
 ## About
 For those unable to download the app, I've used this space to showcase the main features and user interfaces I've developed. <br/><br/>
 Extensively utilizing SwiftUI and Combine, I've crafted aesthetically pleasing user interfaces adhering to functional programming principles. Where iOS functionality constraints arise, I've employed UIKit to address these challenges effectively. <br/><br/>
-I would be happy to answer more general questions about the overall architecture of the project I'm working on during interviews. <br/><br/>
-The App incorporates a variety of interesting tools and frameworks, and I would be delighted to discuss the frameworks that I'm proficient in with you! <br/><br/>
 
 ## Demo Videos
 | Onboarding/Welcome | Login Authentication | Discover Page |
